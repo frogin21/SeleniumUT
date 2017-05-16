@@ -20,21 +20,21 @@ public class Main{
         boolean summary =true;
         TestScript ts = new TestScript("myjne020@gmail.com");
         ts.testLocation= "dev";
-//        ts.isCampaign=true;
-//        ts.promo_code="QANOMOR1";
-//        ts.isPromo = true;       
-//       ts.ApplytoDisburse();
-           ts.Apply_new();
-//          ts.processFraud();
-          ts.processsupercs();
-         ts.processStaff();
+//      ts.isCampaign=true;
+//      ts.promo_code="QANOMOR1";
+//      ts.isPromo = true;       
+//      ts.ApplytoDisburse();
+        ts.Apply_new();
+//      ts.processFraud();
+        ts.processsupercs();
+        ts.processStaff();
         ts.processManager();
-         ts.doingdisburse(true);
-//        ts.processSupermanagerDisburse(true);
-//        ts.Apply_Partner();
+        ts.doingdisburse(true);
+//      ts.processSupermanagerDisburse(true);
+//      ts.Apply_Partner();
            
-//           coba cb= new coba();
-//           cb.latihan("testing on firefox");
+//      coba cb= new coba();
+//      cb.latihan("testing on firefox");
 
     }
     
